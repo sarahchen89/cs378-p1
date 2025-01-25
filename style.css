@@ -1,3 +1,67 @@
-body {
-    color: hotpink;
+div {
+    margin: 15px;
+    padding: 5px;
+}
+
+p {
+    margin: 10px;
+    color: #363737;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.title-2 {
+    color: #8F99FB;
+    font-family: cursive;
+    font-style: italic;
+    font-size: 23px;
+    margin: 2px;
+    padding: 0px;
+    border: 0px;
+}
+
+.title-3 {
+    color: grey;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-top: 0px;
+    font-size: 30px;
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+
+}
+
+.add-button {
+    display: inline;
+    font-size: 20px;
+    border-radius: 40px;
+    background-color: #E5F3FD;
+    border-style: solid;
+    border-color:#ADD8E6;
+    float: right;
+}
+
+.price {
+    color: black;
+    display: inline;
+    margin-right: 100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.food-title {
+    color: black;
+    font-weight: bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.logo {
+    width: auto;
+    height: auto;
+}
+
+.food-img {
+    object-fit: cover;
+    width: 170px;
+    height: 150px;
+    border-radius: 40px;
+
 }
