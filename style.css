@@ -10,6 +10,9 @@ p {
 }
 
 .title-2 {
+    margin-top: 40px;
+    padding-top: 40px;
+    border-top: 40px;
     color: #8F99FB;
     font-family: cursive;
     font-style: italic;
@@ -24,9 +27,9 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     padding-top: 0px;
     font-size: 30px;
-    margin: 0px;
-    padding: 0px;
-    border: 0px;
+    padding-bottom: 50px;
+    margin-bottom: 50px;
+    border-bottom: 50px;
 
 }
 
@@ -56,6 +59,8 @@ p {
 .logo {
     width: auto;
     height: auto;
+    border-bottom: 30px;
+    margin-bottom: 30px;
 }
 
 .food-img {
